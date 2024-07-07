@@ -1,6 +1,3 @@
 Instrucciones
 
-- U Untracked
-- A Added
-Otras cosas
-Una linea mas
+Nueva linea de Instruccion anula las anteriores
